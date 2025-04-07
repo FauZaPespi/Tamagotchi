@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\p_tamagotchi\\frmtamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|solutionrelative:p_tamagotchi\\frmtamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|c:\\users\\oscar\\documents\\github\\tamagotchi\\p_tamagotchi\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|solutionrelative:p_tamagotchi\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\69687fdfb6bb7036ba4fd92e6ce866878cc306768ebd00a5709bf61464f3688c\\SQLite3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|c:\\users\\oscar\\documents\\github\\tamagotchi\\p_tamagotchi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|solutionrelative:p_tamagotchi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\a8a6abb83a28ac74966851dc8ea022d3f0af49a4b49a0bea300b9e87970eb15a\\NativeLibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\e33d53885dfe8040d0cee3c5c263e17bc8808a95cfe628937676d12be79173ba\\SqliteCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|P_Tamagotchi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\p_tamagotchi\\frmtamagotchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|solutionrelative:p_tamagotchi\\frmtamagotchi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\p_tamagotchi\\frmtamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|solutionrelative:p_tamagotchi\\frmtamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC341BBB-655E-4562-BD4F-1E2229799F00}|P_Tamagotchi\\P_Tamagotchi.csproj|c:\\users\\oscar\\documents\\github\\tamagotchi\\p_tamagotchi\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLite3.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\69687fdfb6bb7036ba4fd92e6ce866878cc306768ebd00a5709bf61464f3688c\\SQLite3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\69687fdfb6bb7036ba4fd92e6ce866878cc306768ebd00a5709bf61464f3688c\\SQLite3.cs",
+              "ToolTip": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\69687fdfb6bb7036ba4fd92e6ce866878cc306768ebd00a5709bf61464f3688c\\SQLite3.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\69687fdfb6bb7036ba4fd92e6ce866878cc306768ebd00a5709bf61464f3688c\\SQLite3.cs [Lecture seule]",
+              "ViewState": "AgIAAL4EAAAAAAAAAAAUwNEEAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:57:24.058Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NativeLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\a8a6abb83a28ac74966851dc8ea022d3f0af49a4b49a0bea300b9e87970eb15a\\NativeLibrary.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a8a6abb83a28ac74966851dc8ea022d3f0af49a4b49a0bea300b9e87970eb15a\\NativeLibrary.cs",
+              "ToolTip": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\a8a6abb83a28ac74966851dc8ea022d3f0af49a4b49a0bea300b9e87970eb15a\\NativeLibrary.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a8a6abb83a28ac74966851dc8ea022d3f0af49a4b49a0bea300b9e87970eb15a\\NativeLibrary.cs [Lecture seule]",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEsAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:48:26.61Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\Program.cs",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\Program.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\Program.cs",
+              "RelativeToolTip": "P_Tamagotchi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:48:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqliteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\e33d53885dfe8040d0cee3c5c263e17bc8808a95cfe628937676d12be79173ba\\SqliteCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e33d53885dfe8040d0cee3c5c263e17bc8808a95cfe628937676d12be79173ba\\SqliteCommand.cs",
+              "ToolTip": "C:\\Users\\Oscar\\AppData\\Local\\Temp\\.vsdbgsrc\\e33d53885dfe8040d0cee3c5c263e17bc8808a95cfe628937676d12be79173ba\\SqliteCommand.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e33d53885dfe8040d0cee3c5c263e17bc8808a95cfe628937676d12be79173ba\\SqliteCommand.cs [Lecture seule]",
+              "ViewState": "AgIAALwAAAAAAAAAAAAUwMIAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:45:23.121Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTamagotchi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.Designer.cs",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\FrmTamagotchi.Designer.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.Designer.cs",
+              "RelativeToolTip": "P_Tamagotchi\\FrmTamagotchi.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:36:49.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P_Tamagotchi",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\P_Tamagotchi.csproj",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\P_Tamagotchi.csproj",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\P_Tamagotchi.csproj",
+              "RelativeToolTip": "P_Tamagotchi\\P_Tamagotchi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-07T11:26:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\Utils\\DbConnection.cs",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\Utils\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\Utils\\DbConnection.cs",
+              "RelativeToolTip": "P_Tamagotchi\\Utils\\DbConnection.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:05:00.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTamagotchi.cs",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.cs",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\FrmTamagotchi.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.cs",
+              "RelativeToolTip": "P_Tamagotchi\\FrmTamagotchi.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:04:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTamagotchi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.cs",
+              "RelativeDocumentMoniker": "P_Tamagotchi\\FrmTamagotchi.cs",
+              "ToolTip": "C:\\Users\\Oscar\\Documents\\GitHub\\Tamagotchi\\P_Tamagotchi\\FrmTamagotchi.cs [Design]",
+              "RelativeToolTip": "P_Tamagotchi\\FrmTamagotchi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:01:10.113Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

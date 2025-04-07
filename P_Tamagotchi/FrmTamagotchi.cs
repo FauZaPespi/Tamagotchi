@@ -1,6 +1,8 @@
 ﻿using P_Tamagotchi.Game;
 using P_Tamagotchi.Resources;
+using P_Tamagotchi.Utils;
 using System;
+using SQLitePCL; // Ajoute ce using
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,6 +18,7 @@ namespace P_Tamagotchi
 {
     public partial class FrmTamagotchi : Form
     {
+        private DbConnection dbConnection = DbConnection.GetInstance();
         private int nbTick = 0;
 
         public FrmTamagotchi()
@@ -23,6 +26,17 @@ namespace P_Tamagotchi
             InitializeComponent();
             GameManager.GetInstance().AddTamagotchis(new Tamagotchi("Test", new Sprite(10, 0)));
             pictureTamagotchi.Image = GameManager.GetInstance().GetTamagotchis()[0].Sprite.GetSprite();
+            using (var reader = dbConnection.Query("SELECT * FROM main"))
+            {
+                while (reader.Read())
+                {
+                    for (int i = 0; i < reader.FieldCount; i++)
+                    {
+                        Console.Write($"{reader.GetName(i)}: {reader.GetValue(i)} ");
+                    }
+                    Console.WriteLine();
+                }
+            }
         }
 
         private void FrmTamagotchi_Load(object sender, EventArgs e)
